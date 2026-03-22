@@ -67,4 +67,4 @@ O projeto tem como objetivo aumentar a segurança de idosos, permitindo monitora
 
 ### 1. Clonar repositório
 ```bash
-git clone https://github.com/seuusuario/ecoSaude.git
+git clone https://github.com/P9trici9/EcoSa-de-IoT-Monitoramento-da-Sa-de-do-Idoso.git
